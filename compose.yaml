@@ -1,0 +1,6 @@
+services:
+  datahelper:
+    image: datahelper
+    build:
+      context: .
+      dockerfile: ./Dockerfile
