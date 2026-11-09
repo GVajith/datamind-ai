@@ -1,0 +1,5 @@
+USER_ROLE = "user"
+ADMIN_ROLE = "admin"
+ACTIVE_STATUS = "active"
+PENDING_STATUS = "pending"
+FAILED_STATUS = "failed"
